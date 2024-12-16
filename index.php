@@ -1,7 +1,7 @@
 <?php include("header.php"); ?>
 
 
-<section class="pt-0 card-grid home_slider pb-0">
+<section class="pt-3 card-grid home_slider pb-0">
     <div class="container-fluid">
         <div class="row g-0">
             <div class="col-12">
@@ -157,7 +157,7 @@
                                                 </ul>
                                             </marquee>
                                         </div>
-                                        <a href="" class="news_viewmore blink">view More</a>
+                                        <a href="" class="news_viewmore blink">View More</a>
                                     </div>
                                 </div>
                                 <div>
@@ -234,7 +234,7 @@
                                                 </ul>
                                             </marquee>
                                         </div>
-                                        <a href="" class="news_viewmore blink">view More</a>
+                                        <a href="" class="news_viewmore blink">View More</a>
                                     </div>
                                 </div>
                                 <div>
@@ -298,7 +298,7 @@
                                                 </ul>
                                             </marquee>
                                         </div>
-                                        <a href="" class="news_viewmore blink">view More</a>
+                                        <a href="" class="news_viewmore blink">View More</a>
                                     </div>
                                 </div>
 
@@ -347,7 +347,7 @@
                                                 </ul>
                                             </marquee>
                                         </div>
-                                        <a href="" class="news_viewmore blink">view More</a>
+                                        <a href="" class="news_viewmore blink">View More</a>
                                     </div>
                                 </div>
 
@@ -479,6 +479,10 @@
 
                             </div>
                         </div>
+
+                        <div class="py-4 text-center">
+                            <a href="" class="">View More</a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -502,9 +506,9 @@
                                         <p>Since 1982 Tamil Nadu Pollution Board Has Monitored Air, Water, And Ensured
                                             Strict Measures Protecting State’s Natural Resources And Environments.
                                         </p>
-                                        <a
+                                        <!-- <a
                                                 href="#" class="btn btn-primary text-white"
-                                                style="color: h2; font-weight: bold; text-align: center;">Play Now</a>
+                                                style="color: h2; font-weight: bold; text-align: center;">Play Now</a> -->
                                     </div>
 
                                 </div>
@@ -516,9 +520,9 @@
                                         <h5 class="card-title sec_title">Meedum Manjappai</h5>
                                         <p>Through Effective Laws Tamil Nadu Board Works To Control Waste And Emissions
                                             Keeping Cities Cleaner And Protecting Natural Resources.</p>
-                                            <a
+                                            <!-- <a
                                                 href="#" class="btn btn-primary text-white"
-                                                style="color: h2; font-weight: bold; text-align: center;">Play Now</a>
+                                                style="color: h2; font-weight: bold; text-align: center;">Play Now</a> -->
                                     </div>
 
                                 </div>
@@ -530,9 +534,9 @@
                                         <h5 class="card-title sec_title">Pollution Awareness</h5>
                                         <p>Tamil Nadu Pollution Board Ensures Safe Industries And Clean Air Standards
                                             Reducing Risks To Both People And The Environment Around Us.</p>
-                                            <a
+                                            <!-- <a
                                                 href="#" class="btn btn-primary text-white"
-                                                style="color: h2; font-weight: bold; text-align: center;">Play Now</a>
+                                                style="color: h2; font-weight: bold; text-align: center;">Play Now</a> -->
                                     </div>
 
 
@@ -541,6 +545,11 @@
 
                             </div>
                         </div>
+                        <div class="py-4 text-center">
+                            <a href="" class="">View More</a>
+                        </div>
+
+                       
                     </div>
                 </div>
             </div>

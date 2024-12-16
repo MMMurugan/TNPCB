@@ -96,7 +96,7 @@ table.dataTable thead > tr > td.dt-orderable-desc,
 table.dataTable thead > tr > td.dt-ordering-asc,
 table.dataTable thead > tr > td.dt-ordering-desc {
   position: relative;
-  padding-right: 30px;
+  padding-right: 10px;
 }
 table.dataTable thead > tr > th.dt-orderable-asc span.dt-column-order, table.dataTable thead > tr > th.dt-orderable-desc span.dt-column-order, table.dataTable thead > tr > th.dt-ordering-asc span.dt-column-order, table.dataTable thead > tr > th.dt-ordering-desc span.dt-column-order,
 table.dataTable thead > tr > td.dt-orderable-asc span.dt-column-order,
@@ -108,6 +108,7 @@ table.dataTable thead > tr > td.dt-ordering-desc span.dt-column-order {
   top: 0;
   bottom: 0;
   width: 12px;
+  opacity: 0;
 }
 table.dataTable thead > tr > th.dt-orderable-asc span.dt-column-order:before, table.dataTable thead > tr > th.dt-orderable-asc span.dt-column-order:after, table.dataTable thead > tr > th.dt-orderable-desc span.dt-column-order:before, table.dataTable thead > tr > th.dt-orderable-desc span.dt-column-order:after, table.dataTable thead > tr > th.dt-ordering-asc span.dt-column-order:before, table.dataTable thead > tr > th.dt-ordering-asc span.dt-column-order:after, table.dataTable thead > tr > th.dt-ordering-desc span.dt-column-order:before, table.dataTable thead > tr > th.dt-ordering-desc span.dt-column-order:after,
 table.dataTable thead > tr > td.dt-orderable-asc span.dt-column-order:before,

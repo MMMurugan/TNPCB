@@ -217,9 +217,9 @@ Inner intro START -->
 								<img class="card-img" src="assets/image/board_members/members/alagaasan.jpg" alt="card image">
 								<div class="card-body">
 									<h5 class="mb-2 text-center">Thiru A.Alagarasan,B.Sc (Physics).,</h5>
-									<p class="mb-0 member_dec text-center">
+									<!-- <p class="mb-0 member_dec text-center">
 										Tamilnadu Pollution Control Board<br/>
-										</p>
+										</p> -->
 										<!-- <p class="mb-0 mt-1 text-center">
 											Clicke to view experience
 											</p> -->
@@ -232,10 +232,10 @@ Inner intro START -->
 								<img class="card-img" src="assets/image/board_members/members/tamilmani.jpg" alt="card image">
 								<div class="card-body">
 									<h5 class="mb-2 text-center">Thiru.N.Tamilmani, B.A.,</h5>
-									<p class="mb-0 member_dec text-center">
+									<!-- <p class="mb-0 member_dec text-center">
 										Tamilnadu Pollution Control Board<br/>
 										</p>
-										
+										 -->
 								</div>
 							</div>
 						</div>
@@ -245,9 +245,9 @@ Inner intro START -->
 								<img class="card-img" src="assets/image/board_members/members/dakshina-moorthy.jpg" alt="card image">
 								<div class="card-body">
 									<h5 class="mb-2 text-center">Thiru.K.Dakshinamoorthy,</h5>
-									<p class="mb-0 member_dec text-center">
+									<!-- <p class="mb-0 member_dec text-center">
 										Tamilnadu Pollution Control Board<br/>
-										</p>
+										</p> -->
 								</div>
 							</div>
 						</div>

@@ -31,10 +31,8 @@
           <div class="container-fluid Corporatetab">
           <h2 class="mb-3 mt-4 font-weight-bold text-center sec_title">Corporate Office</h2>
 
-
-
           
-          <div class="row justify-content-center align-items-center my-5">
+          <div class="row justify-content-center align-items-center my-5 ">
                     <div class="col-sm-6 col-md-5 col-lg-4  mb-3 mb-md-0">
                         <h5>Corporate Office</h5>
                         <p class="mt-3">
@@ -54,9 +52,9 @@
                 </div>
 
 
-<div class="row justify-content-center align-items-center my-5">
+<div class="row justify-content-center align-items-center my-5 row-flex">
     <div class="col-sm-6 col-md-5 col-lg-3  mb-3 mb-md-0">
-        <div class="text-center p-2 border rounded bg-primary bg-opacity-10">
+        <div class="text-center p-2 border rounded bg-primary bg-opacity-10 content">
             <div class="mt-3">
                 <h5>Dr.Jayanthi.M, I.F.S.,</h5>
             </div>
@@ -68,7 +66,7 @@
         </div>
     </div>
     <div class="col-sm-6 col-md-5 col-lg-3">
-        <div class="text-center p-2 border rounded bg-primary bg-opacity-10">
+        <div class="text-center p-2 border rounded bg-primary bg-opacity-10 content">
             <div class="mt-3">
                 <h5>Thiru.R. Kannan, M.Tech,</h5>
             </div>
@@ -83,10 +81,10 @@
 
 <h4 class="sec_title mb-4 text-center">Board Officers</h4>
 
-<div class="row justify-content-center align-items-center my-5">
+<div class="row justify-content-center my-5 row-flex">
     <!-- Officer 1 -->
     <div class="col-sm-6 col-md-5 col-lg-3  mb-3 ">
-        <div class="text-center p-2 border rounded bg-primary bg-opacity-10">
+        <div class="text-center p-2 border rounded bg-primary bg-opacity-10 content">
             <div class="mt-3">
                 <h5>Er. M.Vijayalakshmi M.E, M.B.A.,</h5>
             </div>
@@ -100,7 +98,7 @@
 
     <!-- Officer 2 -->
     <div class="col-sm-6 col-md-5 col-lg-3 mb-3">
-        <div class="text-center p-2 border rounded bg-primary bg-opacity-10">
+        <div class="text-center p-2 border rounded bg-primary bg-opacity-10 content">
             <div class="mt-3">
                 <h5>Er.R. Sarasavani, M.Tech, M.B.A.,</h5>
             </div>
@@ -114,7 +112,7 @@
 
     <!-- Officer 3 -->
     <div class="col-sm-6 col-md-5 col-lg-3 mb-3">
-        <div class="text-center p-2 border rounded bg-primary bg-opacity-10">
+        <div class="text-center p-2 border rounded bg-primary bg-opacity-10 content">
             <div class="mt-3">
                 <h5>Er.J. Josephine Sahaya Rani, M.E, M.B.A,</h5>
             </div>
@@ -128,7 +126,7 @@
 
     <!-- Officer 4 -->
     <div class="col-sm-6 col-md-5 col-lg-3 mb-3">
-        <div class="text-center p-2 border rounded bg-primary bg-opacity-10">
+        <div class="text-center p-2 border rounded bg-primary bg-opacity-10 content">
             <div class="mt-3">
                 <h5>Er.K.Nalini, M.E, M.B.A,</h5>
             </div>
@@ -142,7 +140,7 @@
 
     <!-- Officer 5 -->
     <div class="col-sm-6 col-md-5 col-lg-3 mb-3">
-        <div class="text-center p-2 border rounded bg-primary bg-opacity-10">
+        <div class="text-center p-2 border rounded bg-primary bg-opacity-10 content">
             <div class="mt-3">
                 <h5>Er.S. Malarvizhi, M.E, M.B.A,</h5>
             </div>
@@ -156,7 +154,7 @@
 
     <!-- Officer 6 -->
     <div class="col-sm-6 col-md-5 col-lg-3 mb-3">
-        <div class="text-center p-2 border rounded bg-primary bg-opacity-10">
+        <div class="text-center p-2 border rounded bg-primary bg-opacity-10 content">
             <div class="mt-3">
                 <h5>Er.S.Palanisamy, M.E.,</h5>
             </div>
@@ -174,9 +172,9 @@
 
 <h4 class="sec_title mb-4 text-center">Laboratory Wing</h4>
 
-<div class="row justify-content-center align-items-center my-5">
+<div class="row justify-content-center align-items-center my-5 row-flex">
     <div class="col-sm-6 col-md-5 col-lg-3  mb-3 ">
-        <div class="text-center p-2 border rounded bg-primary bg-opacity-10">
+        <div class="text-center p-2 border rounded bg-primary bg-opacity-10 content">
             <div class="mt-3">
                 <h5>Thiru.Shankara Subramanian M.Sc.,</h5>
             </div>
@@ -191,9 +189,9 @@
 
 <h4 class="sec_title mb-4 text-center">Accounts Wing</h4>
 
-<div class="row justify-content-center align-items-center my-5">
+<div class="row justify-content-center align-items-center my-5 row-flex">
     <div class="col-sm-6 col-md-5 col-lg-3  mb-3 ">
-        <div class="text-center p-2 border rounded bg-primary bg-opacity-10">
+        <div class="text-center p-2 border rounded bg-primary bg-opacity-10 content">
             <div class="mt-3">
                 <h5>Tmt.J.Padma Malini, B.Sc, B.Ed.,</h5>
             </div>
@@ -208,9 +206,9 @@
 
 <h4 class="sec_title mb-4 text-center">Personnel & Admin Wing</h4>
 
-<div class="row justify-content-center align-items-center my-5">
+<div class="row justify-content-center align-items-center my-5 row-flex">
     <div class="col-sm-6 col-md-5 col-lg-3  mb-3 ">
-        <div class="text-center p-2 border rounded bg-primary bg-opacity-10">
+        <div class="text-center p-2 border rounded bg-primary bg-opacity-10 content">
             <div class="mt-3">
                 <h5>Manager(P&A)</h5>
             </div>
@@ -224,9 +222,9 @@
 
 <h4 class="sec_title mb-4 text-center">Law Wing</h4>
 
-<div class="row justify-content-center align-items-center my-5">
+<div class="row justify-content-center align-items-center my-5 row-flex">
     <div class="col-sm-6 col-md-5 col-lg-3  mb-3 ">
-        <div class="text-center p-2 border rounded bg-primary bg-opacity-10">
+        <div class="text-center p-2 border rounded bg-primary bg-opacity-10 content">
             <div class="mt-3">
                 <h5>Manager(Law)</h5>
             </div>
@@ -240,9 +238,9 @@
 
 <h4 class="sec_title mb-4 text-center">PRO</h4>
 
-<div class="row justify-content-center align-items-center my-5">
+<div class="row justify-content-center align-items-center my-5 row-flex">
     <div class="col-sm-6 col-md-5 col-lg-3  mb-3 ">
-        <div class="text-center p-2 border rounded bg-primary bg-opacity-10">
+        <div class="text-center p-2 border rounded bg-primary bg-opacity-10 content">
             <div class="mt-3">
                 <h5>Thiru.Shankara Subramanian M.Sc.,</h5>
             </div>

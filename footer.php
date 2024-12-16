@@ -119,6 +119,7 @@
 	<!-- Template Functions -->
 	<script src="assets/js/functions.js"></script>
 	<script src="assets/js/custom.js"></script>
+	<script src="assets/js/flatpickr.js"></script>
 
 </body>
 

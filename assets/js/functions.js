@@ -282,11 +282,11 @@ var e = {
                     if (scTop >= 400) {
                         stickySpace.addClass('active');
                         e.select("#sticky-space.active").style.height = stickyHeight + 'px';
-                        stickyNav.addClass('navbar-sticky-on');
+                        // stickyNav.addClass('navbar-sticky-on');
                     } else {
                         stickySpace.removeClass('active');
                         stickySpace.style.height = '0px';
-                        stickyNav.removeClass("navbar-sticky-on");
+                        // stickyNav.removeClass("navbar-sticky-on");
                     }
                 });
             }

@@ -98,3 +98,13 @@
     font-size: 18px;
   }
 }
+
+@media (max-width: 992px){
+  .sec_main{padding-top: 100px;}
+  .leftbar{top:120px;}
+
+  .court_cases table th:nth-last-child(1), .court_cases table td:nth-last-child(1){width: auto;text-align: center;}
+  .court_cases table th:nth-child(1), .court_cases table td:nth-child(1){width: 60px;text-align: center;}
+.court_cases table th:nth-last-child(2), .court_cases table td:nth-last-child(2){width: auto;}
+
+}

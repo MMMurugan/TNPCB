@@ -37,9 +37,13 @@
 
 </head>
 
-<body class="green">
+<body class="">
 
 	<header>
+
+		
+
+		<div class="navbar-sticky header-static logo_row navbar-sticky-on">
 
 		<div class="navbar-top d-none d-lg-block small bg_theme">
 			<div class="container">
@@ -144,7 +148,7 @@
 							</a>
 						</div>
 						<!-- Dark mode options END -->
-						<ul class="nav mm-social_icon">
+						<!-- <ul class="nav mm-social_icon">
 							<li class="nav-item">
 								<a class="nav-link text-uppercase mx-2" role="button" href="contact-us.php" title="Contact Us" data-bs-toggle="tooltip" data-bs-placement="bottom"><i class="fab fa-facebook"></i></a>
 							</li>
@@ -160,18 +164,31 @@
 							<li class="nav-item">
 								<a class="nav-link text-uppercase mx-2" role="button" href="contact-us.php" title="Contact Us" data-bs-toggle="tooltip" data-bs-placement="bottom"><i class="fab fa-youtube"></i></a>
 							</li>
-							<!-- <li class="nav-item">
+							<li class="nav-item">
 								<a class="nav-link ps-2 pe-0 fs-3" href="#"><i class="fab fa-vimeo"></i></a>
-							</li> -->
-						</ul>
+							</li>
+						</ul> -->
+
+						<div class="icon-wrapper">
+    <!-- Common Icon -->
+    <div class="common-icon">
+    <i class="fa fa-share"></i>
+    </div>
+    <!-- Social Icons -->
+    <div class="social-icons">
+      <div class="social-icon"><a class="nav-link text-uppercase mx-2" role="button" href="contact-us.php" title="Contact Us" data-bs-toggle="tooltip" data-bs-placement="right"><i class="fab fa-facebook"></i></a></div> <!-- Facebook -->
+      <div class="social-icon"><a class="nav-link text-uppercase mx-2" role="button" href="contact-us.php" title="Contact Us" data-bs-toggle="tooltip" data-bs-placement="right"><i class="fab fa-twitter"></i></a></div> <!-- Twitter -->
+      <div class="social-icon"><a class="nav-link text-uppercase mx-2" role="button" href="contact-us.php" title="Contact Us" data-bs-toggle="tooltip" data-bs-placement="right"><i class="fab fa-linkedin"></i></a></div> <!-- Instagram -->
+      <div class="social-icon"><a class="nav-link text-uppercase mx-2" role="button" href="contact-us.php" title="Contact Us" data-bs-toggle="tooltip" data-bs-placement="right"><i class="fab fa-instagram"></i></a></div> <!-- LinkedIn -->
+      <div class="social-icon"><a class="nav-link text-uppercase mx-2" role="button" href="contact-us.php" title="Contact Us" data-bs-toggle="tooltip" data-bs-placement="right"><i class="fab fa-youtube"></i></a></div> <!-- LinkedIn -->
+    </div>
+  </div>
 					</div>
 				</div>
 				<!-- Divider -->
 				<div class="border-bottom border-2 border-primary opacity-1"></div>
 			</div>
 		</div>
-
-		<div class="navbar-sticky header-static logo_row">
 			<!-- Navbar logo section START -->
 			<div class="logo navbar-sticky header-static">
 				<div class="container-fluidmm">
@@ -212,9 +229,9 @@
 			<!-- Navbar logo section END -->
 
 			<!-- Navbar START -->
-			<div class="navbar-sticky header-static p-2">
+			<div class="navbar-sticky header-static ">
 				<nav class="navbar navbar-dark navbar-expand-lg">
-					<div class="container-fluid mobile_bg">
+					<div class="container-fluid mobile_bg ">
 						<div class="d-flex justify-content-between align-content-center">
 							<button class="navbar-toggler me-auto " type="button" data-bs-toggle="collapse"
 								data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false"
@@ -320,7 +337,7 @@
 										</ul>
 									</li>
 
-									<li class="nav-item dropdown">
+									<!-- <li class="nav-item dropdown">
 										<a class="nav-link dropdown-toggle" href="#" id="postMenu"
 											data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 											Information </a>
@@ -336,6 +353,30 @@
 											<li><a class="dropdown-item" href="#">Circular</a></li>
 											<li><a class="dropdown-item" href="#">Government Orders</a></li>
 											<li><a class="dropdown-item" href="#">Compendium of Orders</a></li>
+										</ul>
+									</li> -->
+									<li class="nav-item dropdown">
+										<a class="nav-link dropdown-toggle" href="#" id="postMenu"
+											data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+											Information </a>
+										<ul class="dropdown-menu" aria-labelledby="postMenu">
+										<li><a class="dropdown-item" href="guidelines.php">Guidelines</a></li>
+										<li><a class="dropdown-item" href="https://cpcb.nic.in/categorization-of-industrial-sectors/" target="_blank">Categorization of Industrial Sectors
+										</a></li>
+											<li><a class="dropdown-item" href="tnpcb&you.php">TNPCB and You</a></li>
+											<li><a class="dropdown-item" href="annualreports.php">Annual Reports</a></li>
+											<li><a class="dropdown-item" href="cept.php">CETP</a></li>
+											<li><a class="dropdown-item" href="17categoryindustries.php">17 category Industries</a></li>
+											<li><a class="dropdown-item" href="closuredetails.php">Closure details</a></li>
+											<li><a class="dropdown-item" href="petcoke.php">Pet Coke</a></li>
+
+											<li><a class="dropdown-item" href="boardproceeding.php">Board Proceedings</a></li>
+											<li><a class="dropdown-item" href="#">Circular</a></li>
+											<li><a class="dropdown-item" href="#">Government Orders</a></li>
+											<li><a class="dropdown-item" href="#">Compendium of Orders</a></li>
+											<li><a class="dropdown-item" href="https://cpcb.nic.in/fly-ash-management-and-utilization/" target="_blank">Fly Ash Management and Utilization</a></li>
+											
+
 										</ul>
 									</li>
 									<li class="nav-item dropdown">
@@ -399,11 +440,11 @@
 										<ul class="dropdown-menu" aria-labelledby="postMenu">
 											<li><a class="dropdown-item" href="#">Open house</a></li>
 											<li><a class="dropdown-item" href="#">OLGPRS</a></li>
-											<li><a class="dropdown-item" href="#">Public Hearing</a></li>
+											<li><a class="dropdown-item" href="publicHearing.php">Public Hearing</a></li>
 											<li><a class="dropdown-item" href="#">RTI</a></li>
-											<li><a class="dropdown-item" href="#">Public Gos</a></li>
-											<li><a class="dropdown-item" href="#">Environmental Awareness</a></li>
-											<li><a class="dropdown-item" href="#">NGT Court Cases </a></li>
+											<li><a class="dropdown-item" href="publicGOs.php">Public Gos</a></li>
+											<li><a class="dropdown-item" href="environmentalAwareness.php">Environmental Awareness</a></li>
+											<li><a class="dropdown-item" href="ngtCourtCases.php">NGT Court Cases </a></li>
 										</ul>
 									</li>
 
@@ -429,4 +470,4 @@
 		</div>
 	</header>
 
-	<main>
+	<main class="sec_main">
